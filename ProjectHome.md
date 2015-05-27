@@ -1,0 +1,1 @@
+Basic Java implementation of Othello using Alpha-Beta search, blind search, and depth limit.
